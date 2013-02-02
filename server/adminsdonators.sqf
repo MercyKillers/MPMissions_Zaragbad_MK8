@@ -39,7 +39,7 @@ publicvariable "donatorssilverstealth";
 //34190598=Venom [2013-Feb-28]
 
 //Add gold donator UID here
-donatorsgold = ["64987590", "45332614", "68861254", "61743238", "44495878", "91020102", "58989446", "42495110", "103919430", "4218246", "96960390"];
+donatorsgold = ["64987590", "45332614", "68861254", "61743238", "44495878", "91020102", "58989446", "42495110", "4218246", "96960390", "66925382"];
 publicvariable "donatorsgold";
 //44495878=GRiMMy[2013-Feb-13]
 //45332614=Panda[2013-Feb-4]
@@ -48,9 +48,9 @@ publicvariable "donatorsgold";
 //91020102=kekekeke[2013-Feb-8]
 //58989446=MAVAT[2013-Feb-17]
 //42495110=dIRK[2013-Feb-18]
-//103919430=Ocelot[2013-Feb-23]
 //4218246=DMJake[2013-Feb-23]
-//96960390=Lathirex[2013-Feb-2]  
+//96960390=Lathirex[2013-Mar-2]
+//66925382=Chuck Norris[2013-Mar-3]  
 
 
 //Add gold stealth donator UID here
