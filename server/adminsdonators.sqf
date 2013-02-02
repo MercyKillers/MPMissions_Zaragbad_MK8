@@ -39,7 +39,7 @@ publicvariable "donatorssilverstealth";
 //34190598=Venom [2013-Feb-28]
 
 //Add gold donator UID here
-donatorsgold = ["64987590", "45332614", "68861254", "61743238", "44495878", "91020102", "58989446", "42495110", "103919430", "64667270", "4218246", "96960390"];
+donatorsgold = ["64987590", "45332614", "68861254", "61743238", "44495878", "91020102", "58989446", "42495110", "103919430", "4218246", "96960390"];
 publicvariable "donatorsgold";
 //44495878=GRiMMy[2013-Feb-13]
 //45332614=Panda[2013-Feb-4]
@@ -49,7 +49,6 @@ publicvariable "donatorsgold";
 //58989446=MAVAT[2013-Feb-17]
 //42495110=dIRK[2013-Feb-18]
 //103919430=Ocelot[2013-Feb-23]
-//64667270=MagicRecon[2013-Feb-5]
 //4218246=DMJake[2013-Feb-23]
 //96960390=Lathirex[2013-Feb-2]  
 
@@ -62,9 +61,9 @@ publicvariable "donatorsgoldstealth";
 //15318342=Nero[2013-Feb-29]
 
 //Add Platinum Donator UID here
-donatorsdiamond = ["6348550", "93675654", "6855044", "6846916", "87422470", "72365382", "106436358"];
+donatorsdiamond = ["6348550", "93675654", "6855044", "6846916", "87422470", "72365382", "106436358", "64667270"];
 publicvariable "donatorsdiamond";
-
+//64667270=MagicRecon[2013-Mar-3]
 //93675654=[BAM]Sgt. Raz[2013-Feb-14]
 //6855044=Dunnachie[2013-Feb-15]
 //6846916=Duncan[2013-Feb-15]
